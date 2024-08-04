@@ -22,4 +22,4 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Kirtika2003/CodeFest-Calender.git
