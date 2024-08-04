@@ -8,6 +8,9 @@
 
 ![Screenshot 2024-08-05 040112](https://github.com/user-attachments/assets/afafeec4-0fdc-4519-b6bf-d04f39e4090b)
 
+![image](https://github.com/user-attachments/assets/adb7f87f-3c24-48ae-8320-fbe57b846a18)
+
+
 
 ## Features
 
