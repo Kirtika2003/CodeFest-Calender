@@ -1,4 +1,4 @@
-# CodeQuest Calendar
+# CodeFest Calendar
 
 **CodeFest Calendar** is a Chrome extension for viewing upcoming hackathons and coding contests. It features a toggle button to switch between different types of events.
 
